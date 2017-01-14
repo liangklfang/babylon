@@ -195,7 +195,7 @@
                   "column": 29
                 }
               },
-              "static": true,
+              "static": false,
               "value": {
                 "type": "FunctionTypeAnnotation",
                 "start": 57,
